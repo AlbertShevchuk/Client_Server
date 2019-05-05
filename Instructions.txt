@@ -1,0 +1,19 @@
+How to compile:
+
+g++ server.cpp -o server
+g++ client.cpp -o client
+
+How to run:
+
+./server 8000
+./client
+
+Log in with
+
+IP:	127.0.0.1
+Port:	8000
+
+User: bob 	Password: 000
+User: alice	Password: 000
+
+Use port 5000 to Initiate a chat with my friend
